@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with ml and databases<br>🌱 I’m currently learning machine learning <br>💬 Ask me about<br>⚡ Fun fact
+
 
 
 ## 🌐 Socials:
